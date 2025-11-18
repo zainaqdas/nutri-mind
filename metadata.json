@@ -1,0 +1,5 @@
+{
+  "name": "NutriMind AI Tracker",
+  "description": "An intelligent calorie and macronutrient tracker powered by Gemini 2.5 Flash with Google Search grounding for accurate nutritional data.",
+  "requestFramePermissions": []
+}
